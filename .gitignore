@@ -1,0 +1,19 @@
+# Ignore PyTorch model checkpoints (Too large for standard GitHub tracking)
+*.pt
+*.pth
+
+# Ignore Python caches and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore local virtual environments
+venv/
+env/
+.env/
+
