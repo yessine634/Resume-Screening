@@ -1,0 +1,5 @@
+altair==5.X.X
+nltk==3.X.X
+pandas==2.X.X
+streamlit==1.X.X
+torch==2.6.0
