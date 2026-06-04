@@ -2,15 +2,7 @@
 
 An end-to-end NLP pipeline that automatically classifies resumes into job role categories using a custom-trained **Bidirectional LSTM with Bahdanau Attention**, deployed as an interactive **Streamlit** web application.
 
----
 
-## 🚀 Demo
-
-Paste any plain-text resume into the app and get an instant prediction of the candidate's target job track, along with a confidence score and full probability distribution across all supported roles.
-
-![App Screenshot](assets/screenshot.png) <!-- Replace with an actual screenshot -->
-
----
 
 ## 🧠 Model Architecture
 
