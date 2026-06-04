@@ -51,17 +51,6 @@ Predicted Job Role
 
 ---
 
-## 📂 Project Structure
-
-```
-├── index.ipynb                   # Full training pipeline notebook
-├── app.py                        # Streamlit inference application
-├── bilstm_resume_classifier.pt   # Trained model checkpoint (download separately)
-└── README.md
-```
-
----
-
 ## 🏷️ Supported Job Categories
 
 After deduplication and cleaning, the model predicts across **30 job roles**, including:
@@ -86,8 +75,8 @@ After deduplication and cleaning, the model predicts across **30 job roles**, in
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-resume-screening.git
-cd ai-resume-screening
+git clone https://github.com/yessine634/Resume-Screening
+cd Resume-Screening
 ```
 
 ### 2. Install dependencies
